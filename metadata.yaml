@@ -1,0 +1,33 @@
+_repo: The-blowing-away-of-Mr-Bushy-Tail_73490
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Atwood, Clara E.
+    gutenberg_agent_id: '44163'
+    url: http://www.gutenberg.org/2009/agents/44163
+creator:
+  author:
+    agent_name: Davidson, Edith B.
+    gutenberg_agent_id: '56549'
+    url: http://www.gutenberg.org/2009/agents/56549
+description: ''
+gutenberg_issued: '2024-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73490'
+language: en
+pgterms:marc904: https://archive.org/details/blowingawayofmrb00davi/page/14/mode/2up
+pgterms:marc905: 20221124113340davidson
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Joeri de Ruiter and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bDuffield and Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The blowing away of Mr. Bushy Tail
+url: http://www.gutenberg.org/ebooks/73490
