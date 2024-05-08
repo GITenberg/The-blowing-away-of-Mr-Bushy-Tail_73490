@@ -5,12 +5,17 @@ contributor:
     agent_name: Atwood, Clara E.
     gutenberg_agent_id: '44163'
     url: http://www.gutenberg.org/2009/agents/44163
+covers:
+- cover_type: archival
+  image_path: 73490-h/images/cover_small.jpg
 creator:
   author:
     agent_name: Davidson, Edith B.
     gutenberg_agent_id: '56549'
     url: http://www.gutenberg.org/2009/agents/56549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73490#The-blowing-away-of-Mr-Bushy-Tail
 gutenberg_issued: '2024-04-29'
 gutenberg_type: Text
 identifiers:
